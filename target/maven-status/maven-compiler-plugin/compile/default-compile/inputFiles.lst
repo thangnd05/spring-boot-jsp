@@ -1,7 +1,2 @@
-D:\spring-boot-jsp\src\main\java\springbootjsp\controller\ITTaskJpaCrud.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\controller\MainController.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\controller\SampleRestController.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\dao\ITasksRepository.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\model\TTasks.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\services\TaskService.java
-D:\spring-boot-jsp\src\main\java\springbootjsp\SpringBootJsp2Application.java
+E:\CODE\NHOM\JAVA_WEB\spring-boot-jsp\src\main\java\springbootjsp\controller\HelloControllor.java
+E:\CODE\NHOM\JAVA_WEB\spring-boot-jsp\src\main\java\springbootjsp\TestApplication.java
